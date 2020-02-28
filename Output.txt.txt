@@ -1,0 +1,10 @@
+1.OUTPUT OF PROGRAM WITH SAMPLE DATA:
+The output would display the maximum sum subsequence.
+Example:
+Input:100,-87,948.9,-87,-945,9357,-9.89,567,-9.8
+Output:9914.1100
+	
+
+2.TOTAL NUMBER OF BASIC OPERATIONS i.e., COMPUTATION OF TIME COMPLEXITY:
+a)The basic operations are comaprision and addition.
+b)The time complexity of the problem is O(n).
